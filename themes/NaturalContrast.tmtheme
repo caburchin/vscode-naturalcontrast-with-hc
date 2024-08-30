@@ -28,7 +28,7 @@
 				<key>inactiveSelectionForeground</key>
 				<string>#222222</string>
 				<key>findHighlight</key>
-				<string>#FFE792</string>
+				<string>#9eBB80</string>
 				<key>findHighlightForeground</key>
 				<string>#000000</string>
 				<key>activeGuide</key>
@@ -93,7 +93,7 @@
 				<key>fontStyle</key>
 				<string>bold</string>
 				<key>foreground</key>
-				<string>#FFE792</string>
+				<string>#9eBB80</string>
 				<key>background</key>
 				<string>#5C6D4A</string>
 			</dict>
@@ -106,7 +106,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFE792</string>
+				<string>#9eBB80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -117,7 +117,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFE792</string>
+				<string>#9eBB80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -150,7 +150,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFE792</string>
+				<string>#9eBB80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -211,7 +211,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FFE792</string>
+				<string>#9eBB80</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,7 +224,7 @@
 				<key>fontStyle</key>
 				<string>BOLD</string>
 				<key>foreground</key>
-				<string>#FFE792</string>
+				<string>#9eBB80</string>
 			</dict>
 		</dict>
 		<dict>

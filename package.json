@@ -1,28 +1,28 @@
 {
-	"name": "Theme-NaturalContrast-With-HC",
-	"displayName": "NaturalContrast Theme with High contrast",
-	"description": "NaturalContrast TextMate Theme with High Contrast Frame",
-	"version": "1.0.0",
-	"publisher": "74th",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/74th/vscode-naturalcontrast-with-hc"
-    },
-    "homepage": "https://github.com/74th/vscode-naturalcontrast-with-hc",
-	"engines": {
-		"vscode": "^1.3.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"icon": "icon.png",
-	"contributes": {
-		"themes": [
-			{
-				"label": "NaturalContrast-HC",
-				"uiTheme": "hc-black",
-				"path": "./themes/NaturalContrast.tmtheme"
-			}
-		]
-	}
+  "name": "purin-high-contrast",
+  "displayName": "Purin High Contrast",
+  "description": "NaturalContrast TextMate Theme with High Contrast Frame",
+  "version": "1.0.0",
+  "publisher": "74th",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/74th/vscode-naturalcontrast-with-hc"
+  },
+  "homepage": "https://github.com/74th/vscode-naturalcontrast-with-hc",
+  "engines": {
+    "vscode": "^1.3.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "PurinHighContrast",
+        "uiTheme": "hc-black",
+        "path": "./themes/NaturalContrast.tmtheme"
+      }
+    ]
+  }
 }
